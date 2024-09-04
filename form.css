@@ -1,0 +1,60 @@
+section{
+    background-color: rgb(178, 167, 206);
+    height: 950px;
+    width: 800px;
+    text-align: center;
+    justify-content: center;
+    padding:12px
+}
+.first{
+    color: white;
+    font-size: 1rem;
+}
+.second{
+    color:white;
+    font-size: 1rem;
+    text-align: start;
+}
+.name{
+    height:30px;
+    width:200px;
+}
+.email{
+    height:30px;
+    width:200px;
+}
+.third{
+    text-align: start;
+}
+select{
+    width: 100px;
+    height:25px;
+}
+.fourth{
+    text-align: start;
+    color:white;
+}
+input:hover{
+    background-color: rgb(197, 195, 195);
+}
+.city{
+    height:30px;
+    width:200px;
+}
+select:hover{
+    background-color: rgb(197, 195, 195);
+}
+.fifth{
+    text-align: start;
+}
+.para{
+    height:100px;
+    width:700px;
+}
+button{
+    height:30px;
+    width:60px
+}
+button:hover{
+    background-color: rgb(197, 195, 195);
+}
